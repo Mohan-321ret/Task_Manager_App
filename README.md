@@ -35,7 +35,6 @@ The app demonstrates core React Native concepts such as functional components, h
 - Tap on a task to mark it as completed
 - Visually distinct completed and overdue tasks
 
-*(Screenshots)*
 
 ##  Screenshots
 
@@ -68,5 +67,5 @@ The app demonstrates core React Native concepts such as functional components, h
    ```bash
    npm start
 
-5. Run the app using Expo Go app
+5. Run the app using Expo Go app, 
    even we can use android emulator 
