@@ -69,3 +69,4 @@ The app demonstrates core React Native concepts such as functional components, h
    npm start
 
 5. Run the app using Expo Go app
+   even we can use android emulator 
