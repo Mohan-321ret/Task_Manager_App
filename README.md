@@ -19,7 +19,7 @@ The app demonstrates core React Native concepts such as functional components, h
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **React Native**
 - **Expo**
@@ -28,18 +28,22 @@ The app demonstrates core React Native concepts such as functional components, h
 
 ---
 
-## 📱 App Overview
+##  App Overview
 
 - Splash screen with branding (logo, app name, slogan)
 - Main screen with task input and task list
 - Tap on a task to mark it as completed
 - Visually distinct completed and overdue tasks
 
-*(Screenshots can be added if required)*
+*(Screenshots)*
+![WhatsApp Image 2026-01-03 at 9 35 32 PM (1)](https://github.com/user-attachments/assets/341e86dc-ddc6-411a-af2e-197986cf8dca)
+![WhatsApp Image 2026-01-03 at 9 35 32 PM](https://github.com/user-attachments/assets/72ac7843-e03e-40b5-8d46-60d04ddcbfca)
+![WhatsApp Image 2026-01-03 at 9 35 31 PM](https://github.com/user-attachments/assets/fcf9ec57-88e6-47a2-80b3-d9955165c2d8)
+![WhatsApp Image 2026-01-03 at 9 35 30 PM](https://github.com/user-attachments/assets/34acf257-3443-41d8-8ce1-12e5f2839859)
 
 ---
 
-## ▶️ How to Run the App
+##  How to Run the App
 
 1. Clone the repository
    ```bash
