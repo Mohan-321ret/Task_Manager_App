@@ -1,13 +1,13 @@
 # Task_Manager_App
 # TaskFlow – Task Manager App (React Native)
 
-TaskFlow is a simple and clean Task Manager mobile application built using **React Native (Expo)** as part of an **Android Developer Internship technical assignment**.
+It is a simple and clean Task Manager mobile application built using **React Native (Expo)** as part of an **Android Developer Internship assignment**.
 
 The app demonstrates core React Native concepts such as functional components, hooks, and list rendering, along with a polished user interface and splash screen branding.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add tasks using an input field
 - Display tasks using **FlatList**
@@ -45,7 +45,14 @@ The app demonstrates core React Native concepts such as functional components, h
    ```bash
    git clone https://github.com/Mohan-321ret/Task_Manager_App.git
 2. Navigate to the project directory
-   - cd task-manager
+   ```bash
+    cd task-manager
 3. Install dependencies
+    ```bash
+    npm install
+
 4. Start the development server
+   ```bash
+   npm start
+
 5. Run the app using Expo Go app
