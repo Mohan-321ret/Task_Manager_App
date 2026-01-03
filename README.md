@@ -36,10 +36,19 @@ The app demonstrates core React Native concepts such as functional components, h
 - Visually distinct completed and overdue tasks
 
 *(Screenshots)*
-![WhatsApp Image 2026-01-03 at 9 35 32 PM (1)](https://github.com/user-attachments/assets/341e86dc-ddc6-411a-af2e-197986cf8dca)
-![WhatsApp Image 2026-01-03 at 9 35 32 PM](https://github.com/user-attachments/assets/72ac7843-e03e-40b5-8d46-60d04ddcbfca)
-![WhatsApp Image 2026-01-03 at 9 35 31 PM](https://github.com/user-attachments/assets/fcf9ec57-88e6-47a2-80b3-d9955165c2d8)
-![WhatsApp Image 2026-01-03 at 9 35 30 PM](https://github.com/user-attachments/assets/34acf257-3443-41d8-8ce1-12e5f2839859)
+
+##  Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/341e86dc-ddc6-411a-af2e-197986cf8dca" width="230" />
+  <img src="https://github.com/user-attachments/assets/72ac7843-e03e-40b5-8d46-60d04ddcbfca" width="230" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcf9ec57-88e6-47a2-80b3-d9955165c2d8" width="230" />
+  <img src="https://github.com/user-attachments/assets/34acf257-3443-41d8-8ce1-12e5f2839859" width="230" />
+</p>
+
 
 ---
 
